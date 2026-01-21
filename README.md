@@ -1,2 +1,0 @@
-# gammoridin-releases
-gammoridin-releases
